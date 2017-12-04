@@ -1,0 +1,41 @@
+.img-fluid {
+  max-height: 50px;
+  width: auto;
+  margin-top: 10px;
+}
+
+nav {
+  margin-top: 10px;
+  border-top: solid 1px #e2bedf;
+  border-bottom: solid 2px #e2bedf;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+nav .nav-link {
+  color: #000000;
+  padding: .5rem 5rem;
+}
+
+.container-fluid {
+  margin-top: 15px;
+  padding-left: 45px;
+}
+
+.Article-title1 {
+  font-size: 1.6rem;
+}
+
+.Article-title2 {
+  font-size: 1.2rem;
+}
+
+footer {
+  margin-top: 30px;
+  background-color: black;
+}
+
+footer .nav-link {
+  color: white;
+  font-size: 0.7rem;
+}
